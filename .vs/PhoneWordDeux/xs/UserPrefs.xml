@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{B8413059-0485-4B44-BA31-063CF8A133EB}|Default">
+  <MonoDevelop.Ide.ItemProperties.PhoneWordDeux.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.ItemProperties.PhoneWordDeux.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2AFAC9C5-ACE1-4193-B661-B8B9F0E557DE" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PhoneWordDeux/MainPage.cs">
+    <Files>
+      <File FileName="PhoneWordDeux/MainPage.xaml" Line="5" Column="66" />
+      <File FileName="PhoneWordDeux/App.xaml" Line="1" Column="1" />
+      <File FileName="PhoneWordDeux/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="PhoneWordDeux/PhonewordTranslator.cs" Line="3" Column="15" />
+      <File FileName="PhoneWordDeux/MainPage.cs" Line="50" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PhoneWordDeux" expanded="True">
+            <Node name="PhoneWordDeux" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

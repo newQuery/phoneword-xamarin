@@ -1,0 +1,12 @@
+/Users/thomas.wilmshorst/Projects/PhoneWordDeux/PhoneWordDeux/bin/Debug/netstandard2.0/PhoneWordDeux.deps.json
+/Users/thomas.wilmshorst/Projects/PhoneWordDeux/PhoneWordDeux/bin/Debug/netstandard2.0/PhoneWordDeux.dll
+/Users/thomas.wilmshorst/Projects/PhoneWordDeux/PhoneWordDeux/bin/Debug/netstandard2.0/ref/PhoneWordDeux.dll
+/Users/thomas.wilmshorst/Projects/PhoneWordDeux/PhoneWordDeux/bin/Debug/netstandard2.0/PhoneWordDeux.pdb
+/Users/thomas.wilmshorst/Projects/PhoneWordDeux/PhoneWordDeux/obj/Debug/netstandard2.0/PhoneWordDeux.csprojAssemblyReference.cache
+/Users/thomas.wilmshorst/Projects/PhoneWordDeux/PhoneWordDeux/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/thomas.wilmshorst/Projects/PhoneWordDeux/PhoneWordDeux/obj/Debug/netstandard2.0/PhoneWordDeux.AssemblyInfoInputs.cache
+/Users/thomas.wilmshorst/Projects/PhoneWordDeux/PhoneWordDeux/obj/Debug/netstandard2.0/PhoneWordDeux.AssemblyInfo.cs
+/Users/thomas.wilmshorst/Projects/PhoneWordDeux/PhoneWordDeux/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/thomas.wilmshorst/Projects/PhoneWordDeux/PhoneWordDeux/obj/Debug/netstandard2.0/PhoneWordDeux.dll
+/Users/thomas.wilmshorst/Projects/PhoneWordDeux/PhoneWordDeux/obj/Debug/netstandard2.0/ref/PhoneWordDeux.dll
+/Users/thomas.wilmshorst/Projects/PhoneWordDeux/PhoneWordDeux/obj/Debug/netstandard2.0/PhoneWordDeux.pdb
